@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2e7501a38d77b892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git and Github"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "095f1ea2da67a813",
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git and Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Git and Github"
             }
           },
           {
@@ -108,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git and Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Git and Github"
             }
           },
           {
@@ -136,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Git and Github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Git and Github"
             }
           }
         ]
@@ -161,8 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30e16f3e616e556e",
+  "active": "2e7501a38d77b892",
   "lastOpenFiles": [
+    "Pasted image 20250516110140.png",
+    "Git Labs.md",
+    "Git and Github.md",
+    "Untitled",
     "Go Lang",
     "Monitoring",
     "Kubernettes",
